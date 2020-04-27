@@ -1,0 +1,17 @@
+{
+  "name": "react-dominus",
+  "displayName": "react-dominus",
+  "expo": {
+    "name": "react-dominus",
+    "slug": "react-dominus",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
